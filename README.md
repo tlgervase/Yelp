@@ -14,7 +14,7 @@ This is a project completed in Python to analyze trends and discreptencies betwe
 - BERT
 - Torch
 - Transformers
-- 
+- Spacy
 
 
 ## Data Collection
