@@ -8,6 +8,7 @@ This is a project completed in Python to analyze trends and discreptencies betwe
 ## Built With
 
 - Python
+- Jupyter Notebooks
 - BeautifulSoup
 - Scikit-learn
 - TestBlob
